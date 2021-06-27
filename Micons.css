@@ -25,6 +25,39 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-arrow-drop-up-line:before {
+  content: "\e910";
+}
+.icon-home-2-fill:before {
+  content: "\e911";
+}
+.icon-arrow-drop-left-line:before {
+  content: "\e912";
+}
+.icon-arrow-drop-right-line:before {
+  content: "\e913";
+}
+.icon-user-3-fill:before {
+  content: "\e914";
+}
+.icon-close-line:before {
+  content: "\e915";
+}
+.icon-time-line:before {
+  content: "\e916";
+}
+.icon-arrow-right-s-line-1:before {
+  content: "\e917";
+}
+.icon-menu-line:before {
+  content: "\e918";
+}
+.icon-search-line:before {
+  content: "\e919";
+}
+.icon-arrow-down-s-line:before {
+  content: "\e91a";
+}
 .icon-whatsapp-line:before {
   content: "\e90f";
 }
